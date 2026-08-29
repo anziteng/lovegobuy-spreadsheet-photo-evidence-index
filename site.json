@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "asset_id": "lovegobuy-github-pages-photo-evidence-index-20260829",
+  "platform_id": "github-pages",
+  "brand": "Lovegobuy",
+  "target_url": "https://lovego.org/",
+  "public_base_url": "https://anziteng.github.io/lovegobuy-spreadsheet-photo-evidence-index/",
+  "title": "Lovegobuy Spreadsheet Photo Evidence Index",
+  "content_angle": "A four-page index each saved image by row, visible feature, identity boundary, and follow-up question. Its independent output remains useful without the project link and it makes no claim about current inventory, price, quality, eligibility, policy, or delivery outcomes.",
+  "difference_notes": "This photo evidence index produces a distinct saved output, evidence field set, worked example, exception path, and decision vocabulary from earlier Lovegobuy assets.",
+  "generator": "tools/run-auto-tasks-2026-08-26.mjs",
+  "content_quality": {
+    "depth_profile": "task_complete_v2",
+    "real_data_status": "unavailable",
+    "independent_user_task": "Complete one photo-evidence indexing review and save a photo evidence index tying each saved image to a row, observation date, visible feature, and follow-up question.",
+    "link_removed_value": "Without the brand, logo, CTA, or project link, the resource still teaches the method, exception path, worked example, and fields needed for a photo evidence index tying each saved image to a row, observation date, visible feature, and follow-up question.",
+    "compared_asset_ids": [
+      "lovegobuy-github-pages-first-save-02",
+      "lovegobuy-github-pages-link-health-01",
+      "lovegobuy-github-shopping-data-toolkit-01",
+      "lovegobuy-github-pages-seller-identity-log-20260829",
+      "lovegobuy-github-pages-coupon-condition-audit-20260829"
+    ],
+    "unique_modules": [
+      "Build the image-to-row index",
+      "Image order and file name",
+      "Visible feature without inference",
+      "Row and option association",
+      "Missing angle or identity question"
+    ],
+    "reused_paragraphs": [],
+    "duplicate_check_result": "Passed after comparing the task, output, field set, examples, and exceptions against lovegobuy-github-pages-first-save-02, lovegobuy-github-pages-link-health-01, lovegobuy-github-shopping-data-toolkit-01, lovegobuy-github-pages-seller-identity-log-20260829, lovegobuy-github-pages-coupon-condition-audit-20260829.",
+    "depth_audit": {
+      "home": {
+        "visible_word_count": 715,
+        "h1_count": 1,
+        "h2_count": 7,
+        "section_count": 8,
+        "substantive_block_count": 27,
+        "long_block_count": 11,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "faq": {
+        "visible_word_count": 449,
+        "h1_count": 1,
+        "h2_count": 5,
+        "section_count": 6,
+        "substantive_block_count": 16,
+        "long_block_count": 7,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "usage-guide": {
+        "visible_word_count": 483,
+        "h1_count": 1,
+        "h2_count": 5,
+        "section_count": 6,
+        "substantive_block_count": 18,
+        "long_block_count": 12,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "alternatives": {
+        "visible_word_count": 504,
+        "h1_count": 1,
+        "h2_count": 9,
+        "section_count": 6,
+        "substantive_block_count": 21,
+        "long_block_count": 3,
+        "task_signal_count": 4,
+        "duplicate_block_count": 3,
+        "duplicate_block_ratio": 0.14285714285714285
+      }
+    }
+  }
+}
